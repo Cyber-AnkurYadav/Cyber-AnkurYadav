@@ -1,22 +1,29 @@
-# Ankur Yadav — GitHub Profile Setup
+# Ankur Yadav GitHub Profile
 
-1. Create/open the special profile repository: `Cyber-AnkurYadav/Cyber-AnkurYadav`.
-2. Copy all files from this folder into the repository root.
-3. Keep `assets/ankur-cyber-character.png` at the same path.
-4. In repository **Settings → Actions → General**, allow GitHub Actions to run.
-5. Run **Generate Contribution Snake** manually once, then the daily schedule will update it.
-6. Commit and push to `main`.
+The profile is already wired for `Cyber-AnkurYadav/Cyber-AnkurYadav`.
 
-## Files
+## Current structure
 
-- `banner.svg` — dark animated banner
-- `banner-light.svg` — light-mode banner
-- `lanyard.svg` — animated cybersecurity ID badge
-- `stats.svg` — local profile/focus stats
-- `langs.svg` — local skill bars
-- `trophies.svg` — local achievement cards
-- `README.md` — profile layout
-- `.github/workflows/github-snake.yml` — snake workflow
-- `assets/ankur-cyber-character.png` — transparent anime character asset
+```text
+README.md
+banner.svg
+banner-light.svg
+lanyard.svg
+stats.svg
+langs.svg
+trophies.svg
+assets/ankur-cyber-character.svg
+.github/workflows/github-snake.yml
+```
 
-> The SVGs use SMIL/CSS animation and do not require JavaScript.
+## Notes
+
+- `README.md` automatically selects the dark/light dashboard.
+- `banner.svg` and `lanyard.svg` use the new anime character asset.
+- The dashboard intentionally avoids invented GitHub statistics.
+- The snake workflow lives under `.github/workflows/` and publishes to the `output` branch.
+- Image references use `?v=4` cache-busting so GitHub refreshes the profile after edits.
+
+## Snake
+
+Open **Actions → Generate Contribution Snake → Run workflow** once after enabling Actions. The scheduled job then refreshes it daily.
