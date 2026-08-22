@@ -1,71 +1,53 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=3">
-  <img alt="Ankur Yadav — animated cybersecurity GitHub banner" src="./banner.svg?v=3">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=4">
+  <img src="./banner.svg?v=4" alt="Ankur Yadav — cybersecurity engineer animated GitHub dashboard" width="100%">
 </picture>
 
-<br>
+<br><br>
 
-<img src="./lanyard.svg?v=3" width="420" alt="Animated cybersecurity ID lanyard featuring Ankur Yadav">
+<img src="./lanyard.svg?v=4" width="420" alt="Ankur Yadav cybersecurity ID badge">
 
-## ⚡ About Me
+</div>
 
-**B.Tech CSE (6th Semester)** at **Mangalayatan University, Aligarh**, focused on becoming a strong cybersecurity professional through hands-on labs and real-world security engineering.
+## 🔐 Security Focus
 
-- 🔐 Cybersecurity • Ethical Hacking • Penetration Testing
-- 🐧 Linux • Networking • System Security
-- 🧪 Web Security • OSINT • Digital Forensics
-- 📊 SIEM / ELK • Defensive Security
-- 🏅 Google Student Ambassador • Google Arcade Legend
-- 👥 Founder & Core Member — **Team CodeX**
-- 🎓 CGPA: **8.0**
-
-> **“Consistency, Curiosity, Creating Value.”**
-
-## 🛡️ Security Stack
-
-`Linux` `Nmap` `Wireshark` `Burp Suite` `Metasploit` `Python` `Bash` `SQL` `Networking` `ELK / SIEM` `OSINT` `Digital Forensics` `Git`
-
-<p align="center">
-  <img src="./stats.svg?v=3" width="760" alt="Profile stats">
-  <br><br>
-  <img src="./langs.svg?v=3" width="760" alt="Languages and security stack">
-  <br><br>
-  <img src="./trophies.svg?v=3" width="760" alt="Achievements and trophies">
-</p>
+`Linux` `Networking` `Nmap` `Wireshark` `Burp Suite` `Metasploit` `Python` `Bash` `SQL` `ELK / SIEM` `OSINT` `Digital Forensics`
 
 ## 🚀 Projects
 
 | Project | Focus |
 |---|---|
-| **Ostrich OS** | Systems + Linux experimentation |
+| **Ostrich OS** | Systems learning and experimentation |
 | **Ostrich Browser** | Browser engineering + security exploration |
-| **AI Assistant** | Personal productivity / learning assistant |
-| **Security Labs** | Networking, pentesting and defensive-security experiments |
+| **AI Assistant** | Personal learning and productivity assistant |
+| **Security Labs** | Networking, Linux, pentesting and defensive-security practice |
 
-## 🧭 Current Mission
+## 🧭 Mission
 
 ```text
-LEARN → LAB → BREAK → UNDERSTAND → SECURE → BUILD
+LEARN  →  LAB  →  UNDERSTAND  →  SECURE  →  BUILD
 ```
 
-My goal is to master both **offensive and defensive security**, backed by strong foundations in networking, operating systems and practical security engineering.
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://github.com/Cyber-AnkurYadav"><img src="https://img.shields.io/badge/GitHub-Cyber--AnkurYadav-111827?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/cyber-ankuryadav/"><img src="https://img.shields.io/badge/LinkedIn-Ankur%20Yadav-0A66C2?style=for-the-badge&logo=linkedin"></a>
-</p>
+I am working toward strong, practical cybersecurity capability across **offensive security, defensive security, networking, Linux and system security**.
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="./output/github-contribution-grid-snake-dark.svg?v=3" alt="GitHub contribution snake">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg?v=4">
+    <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg?v=4">
+    <img src="./output/github-contribution-grid-snake-dark.svg?v=4" alt="GitHub contribution snake">
+  </picture>
 </p>
 
----
+## 🤝 Connect
 
-<p align="center"><b>KEEP CODING • KEEP GROWING • KEEP SECURING 🚀</b></p>
+<p align="center">
+  <a href="https://github.com/Cyber-AnkurYadav"><img src="https://img.shields.io/badge/GitHub-Cyber--AnkurYadav-111827?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/cyber-ankuryadav/"><img src="https://img.shields.io/badge/LinkedIn-Ankur%20Yadav-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+<p align="center"><b>KEEP LEARNING • KEEP HACKING • KEEP GROWING • KEEP SECURING 🚀</b></p>
