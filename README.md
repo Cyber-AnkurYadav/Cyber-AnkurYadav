@@ -1,58 +1,57 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-  <img alt="Ankur Yadav — animated cybersecurity GitHub banner" src="./banner.svg?v=1">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=3">
+  <img alt="Ankur Yadav — animated cybersecurity GitHub banner" src="./banner.svg?v=3">
 </picture>
 
 <br>
 
-<img src="./lanyard.svg?v=1" width="420" alt="Animated cybersecurity ID lanyard">
+<img src="./lanyard.svg?v=3" width="420" alt="Animated cybersecurity ID lanyard featuring Ankur Yadav">
 
 ## ⚡ About Me
 
-**B.Tech CSE (6th Semester)** at **Mangalayatan University, Aligarh** with a strong focus on **cybersecurity, networking, ethical hacking and system security**.
+**B.Tech CSE (6th Semester)** at **Mangalayatan University, Aligarh**, focused on becoming a strong cybersecurity professional through hands-on labs and real-world security engineering.
 
-- 🔐 Aspiring cybersecurity professional
-- 🐧 Linux + networking enthusiast
-- 🧪 Learning penetration testing, web security, OSINT and digital forensics
-- 📊 Exploring SIEM / ELK and defensive security
-- 🌱 Building projects to turn theory into practical security skills
-- 🎓 CGPA: **8.0**
+- 🔐 Cybersecurity • Ethical Hacking • Penetration Testing
+- 🐧 Linux • Networking • System Security
+- 🧪 Web Security • OSINT • Digital Forensics
+- 📊 SIEM / ELK • Defensive Security
 - 🏅 Google Student Ambassador • Google Arcade Legend
 - 👥 Founder & Core Member — **Team CodeX**
+- 🎓 CGPA: **8.0**
 
 > **“Consistency, Curiosity, Creating Value.”**
 
 ## 🛡️ Security Stack
 
-`Linux` `Nmap` `Wireshark` `Burp Suite` `Python` `Bash` `SQL` `Networking` `ELK / SIEM` `OSINT` `Digital Forensics` `Git`
+`Linux` `Nmap` `Wireshark` `Burp Suite` `Metasploit` `Python` `Bash` `SQL` `Networking` `ELK / SIEM` `OSINT` `Digital Forensics` `Git`
 
 <p align="center">
-  <img src="./stats.svg?v=1" width="760" alt="Profile stats">
+  <img src="./stats.svg?v=3" width="760" alt="Profile stats">
   <br><br>
-  <img src="./langs.svg?v=1" width="760" alt="Languages and security stack">
+  <img src="./langs.svg?v=3" width="760" alt="Languages and security stack">
   <br><br>
-  <img src="./trophies.svg?v=1" width="760" alt="Achievements and trophies">
+  <img src="./trophies.svg?v=3" width="760" alt="Achievements and trophies">
 </p>
 
 ## 🚀 Projects
 
-| Project | What it represents |
+| Project | Focus |
 |---|---|
-| **Ostrich OS** | Systems-oriented learning and experimentation project |
+| **Ostrich OS** | Systems + Linux experimentation |
 | **Ostrich Browser** | Browser engineering + security exploration |
 | **AI Assistant** | Personal productivity / learning assistant |
-| **Security Labs** | Hands-on networking, Linux, pentesting and defensive-security experiments |
+| **Security Labs** | Networking, pentesting and defensive-security experiments |
 
 ## 🧭 Current Mission
 
 ```text
-LEARN  →  LAB  →  BREAK  →  UNDERSTAND  →  SECURE  →  BUILD
+LEARN → LAB → BREAK → UNDERSTAND → SECURE → BUILD
 ```
 
-My long-term goal is to become highly capable across **offensive security + defensive security**, with strong foundations in networking, operating systems and real-world security engineering.
+My goal is to master both **offensive and defensive security**, backed by strong foundations in networking, operating systems and practical security engineering.
 
 ## 🤝 Connect
 
@@ -64,7 +63,7 @@ My long-term goal is to become highly capable across **offensive security + defe
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="./output/github-contribution-grid-snake-dark.svg?v=1" alt="GitHub contribution snake">
+  <img src="./output/github-contribution-grid-snake-dark.svg?v=3" alt="GitHub contribution snake">
 </p>
 
 ---
