@@ -1,19 +1,13 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=10">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=10">
-  <img src="./banner.svg?v=10" alt="Ankur Yadav — Cybersecurity Engineer" width="100%">
-</picture>
+<img src="./banner.svg?v=11" width="100%" alt="Ankur Yadav — Cybersecurity Engineer">
 
 <br><br>
 
 <table align="center" width="96%" cellspacing="0" cellpadding="12">
 <tr>
 <td width="40%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/Cyber-AnkurYadav/Cyber-AnkurYadav/1396a681da93338da52e51b5eddae194d8da8406/assets/ankur-cyber-character.svg" width="100%" alt="Ankur Yadav cybersecurity anime character">
-
+<img src="./assets/ankur-anime.jpg?v=11" width="100%" alt="Ankur Yadav cybersecurity character">
 </td>
 <td width="60%" valign="top">
 
@@ -98,8 +92,8 @@ Hands-on practice across reconnaissance, web security, Linux, networking, SIEM a
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="./stats.svg?v=10" width="49%" alt="Profile stats">
-<img src="./langs.svg?v=10" width="49%" alt="Top languages">
+<img src="./stats.svg?v=11" width="49%" alt="Profile stats">
+<img src="./langs.svg?v=11" width="49%" alt="Top languages">
 </p>
 
 <p align="center">
@@ -115,7 +109,7 @@ Hands-on practice across reconnaissance, web security, Linux, networking, SIEM a
 ## 🏆 Achievements
 
 <p align="center">
-<img src="./trophies.svg?v=10" width="96%" alt="GitHub achievements">
+<img src="./trophies.svg?v=11" width="96%" alt="GitHub achievements">
 </p>
 
 <br>
@@ -124,9 +118,9 @@ Hands-on practice across reconnaissance, web security, Linux, networking, SIEM a
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg?v=10">
-  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg?v=10">
-  <img src="./output/github-contribution-grid-snake-dark.svg?v=10" alt="GitHub contribution snake">
+  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg?v=11">
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg?v=11">
+  <img src="./output/github-contribution-grid-snake-dark.svg?v=11" alt="GitHub contribution snake">
 </picture>
 </p>
 
