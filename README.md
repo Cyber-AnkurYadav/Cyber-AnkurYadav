@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=8">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=8">
-  <img src="./banner.svg?v=8" alt="Ankur Yadav — Cybersecurity Engineer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=9">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=9">
+  <img src="./banner.svg?v=9" alt="Ankur Yadav — Cybersecurity Engineer" width="100%">
 </picture>
 
 <br><br>
@@ -11,9 +11,7 @@
 <table align="center" width="96%" cellspacing="0" cellpadding="10">
 <tr>
 <td width="38%" align="center" valign="middle">
-
-<img src="./lanyard.svg?v=8" width="100%" alt="Ankur Yadav animated cybersecurity ID card">
-
+<img src="./lanyard.svg?v=9" width="100%" alt="Ankur Yadav animated cybersecurity ID card">
 </td>
 <td width="62%" valign="top">
 
@@ -21,7 +19,7 @@
 
 **Cybersecurity Engineer • Security Learner • Builder**
 
-I am focused on building practical skills across **offensive security, defensive security, networking, Linux, system security and digital forensics**.
+I build practical security skills through labs, networking, Linux, offensive security, defensive security and digital forensics.
 
 ### ⚔️ Security Arsenal
 
@@ -52,12 +50,12 @@ I am focused on building practical skills across **offensive security, defensive
 ### 🦤 Ostrich OS
 **Systems • Linux • Security**
 
-An operating-system learning project focused on understanding systems, Linux internals and security concepts.
+Operating-system learning and experimentation focused on systems, Linux internals and security concepts.
 
 ### 🌐 Ostrich Browser
 **Browser Engineering • Security**
 
-A browser project exploring how modern browsers work while learning about security boundaries and attack surfaces.
+A browser project exploring browser architecture, security boundaries and attack surfaces.
 
 </td>
 <td width="50%" valign="top">
@@ -70,7 +68,7 @@ A personal assistant project for learning, automation and productivity experimen
 ### 🧪 Security Labs
 **Pentesting • Networking • Blue Team**
 
-Hands-on labs covering reconnaissance, web security, Linux, networking, SIEM and defensive-security practice.
+Hands-on practice across reconnaissance, web security, Linux, networking, SIEM and defensive security.
 
 </td>
 </tr>
@@ -78,7 +76,7 @@ Hands-on labs covering reconnaissance, web security, Linux, networking, SIEM and
 
 <br>
 
-## 🧰 Tools I Work With
+## 🧰 Security Toolkit
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,git,github,ubuntu&perline=8" alt="Core technologies">
@@ -98,8 +96,8 @@ Hands-on labs covering reconnaissance, web security, Linux, networking, SIEM and
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="./stats.svg?v=8" width="49%" alt="Profile stats">
-<img src="./langs.svg?v=8" width="49%" alt="Top languages">
+<img src="./stats.svg?v=9" width="49%" alt="Profile stats">
+<img src="./langs.svg?v=9" width="49%" alt="Top languages">
 </p>
 
 <p align="center">
@@ -115,7 +113,7 @@ Hands-on labs covering reconnaissance, web security, Linux, networking, SIEM and
 ## 🏆 Achievements
 
 <p align="center">
-<img src="./trophies.svg?v=8" width="96%" alt="GitHub achievements">
+<img src="./trophies.svg?v=9" width="96%" alt="GitHub achievements">
 </p>
 
 <br>
@@ -124,9 +122,9 @@ Hands-on labs covering reconnaissance, web security, Linux, networking, SIEM and
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg?v=8">
-  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg?v=8">
-  <img src="./output/github-contribution-grid-snake-dark.svg?v=8" alt="GitHub contribution snake">
+  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg?v=9">
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg?v=9">
+  <img src="./output/github-contribution-grid-snake-dark.svg?v=9" alt="GitHub contribution snake">
 </picture>
 </p>
 
