@@ -1,143 +1,123 @@
 <div align="center">
 
-<img src="./banner.svg?v=15" width="100%" alt="Ankur Yadav — Cybersecurity Engineer">
+<img src="./banner.svg?v=20" width="100%" alt="Ankur Yadav — Cybersecurity Engineer">
 
-<br><br>
+### 🛡️ Cybersecurity Engineer · Red Team · Blue Team · DFIR
 
-<table align="center" width="96%" cellspacing="0" cellpadding="12">
+**I learn by building, breaking, analyzing and securing systems.**
+
+</div>
+
+---
+
+<table align="center" width="92%" cellspacing="0" cellpadding="18">
 <tr>
-<td width="40%" align="center" valign="middle">
-<img src="./assets/ankur-anime.jpg?v=15" width="100%" alt="Ankur Yadav cybersecurity character">
+<td width="34%" align="center" valign="middle">
+<img src="./assets/ankur-anime-profile.webp?v=20" width="260" alt="Ankur Yadav cybersecurity character">
 </td>
-<td width="60%" valign="top">
+<td width="66%" valign="top">
 
-### 🛡️ CYBERSECURITY // PROFILE
+## 👋 About Me
 
-**Cybersecurity Engineer • Security Learner • Builder**
+I'm **Ankur Yadav**, a cybersecurity-focused learner building practical skills across **network security, penetration testing, Linux, SOC, threat hunting and digital forensics**.
 
-I build practical security skills through labs, networking, Linux, offensive security, defensive security and digital forensics.
+### 🎯 Current Focus
 
-### ⚔️ Security Arsenal
+- 🔴 **Offensive Security** — Recon · Web Pentesting · Burp Suite · Metasploit
+- 🔵 **Defensive Security** — SOC · SIEM · ELK · Sysmon · Threat Hunting
+- 🌐 **Networking** — TCP/IP · Nmap · Wireshark · Network Analysis
+- 🔎 **DFIR / OSINT** — Autopsy · Digital Forensics · Recon
+- 🐧 **Linux** — Kali · Arch · Bash · System Administration
 
-| Area | Tools / Skills |
-|:---|:---|
-| 🌐 Network | `Nmap` `Wireshark` `arp-scan` `TCP/IP` |
-| 🕷️ Web Security | `Burp Suite` `SQLMap` `Nikto` `OWASP` |
-| 🔴 Offensive | `Metasploit` `Hashcat` `Kali Linux` `Pentesting` |
-| 🔵 Defensive | `ELK` `SIEM` `Sysmon` `SOC` `Threat Hunting` |
-| 🔎 Intelligence | `OSINT` `Maltego` `Recon` |
-| 💾 Forensics | `Autopsy` `Disk Analysis` `DFIR` |
-| 💻 Programming | `Python` `Bash` `C/C++` `SQL` |
-
-> **THINK → ANALYZE → EXPLOIT → DEFEND → SECURE**
+> **Learn → Lab → Analyze → Defend → Secure**
 
 </td>
 </tr>
 </table>
 
-<br>
+## 🧰 Security Arsenal
 
-## 🚀 Featured Projects & Labs
+<div align="center">
 
-<table align="center" width="96%" cellspacing="0" cellpadding="14">
+`Nmap` · `Wireshark` · `Burp Suite` · `Metasploit` · `Hashcat` · `SQLMap` · `Nikto` · `Autopsy` · `Maltego` · `ELK` · `Sysmon` · `Kali Linux`
+
+</div>
+
+<table align="center" width="92%" cellspacing="8" cellpadding="12">
+<tr>
+<td width="25%" align="center"><b>🌐 NETWORK</b><br>TCP/IP<br>Nmap<br>Wireshark<br>arp-scan</td>
+<td width="25%" align="center"><b>🕷️ WEB</b><br>Burp Suite<br>OWASP<br>SQLMap<br>Nikto</td>
+<td width="25%" align="center"><b>🔴 OFFENSIVE</b><br>Kali Linux<br>Metasploit<br>Hashcat<br>Pentesting</td>
+<td width="25%" align="center"><b>🔵 DEFENSIVE</b><br>ELK / SIEM<br>Sysmon<br>SOC<br>Threat Hunting</td>
+</tr>
+</table>
+
+## 🚀 What I'm Building
+
+<table align="center" width="92%" cellspacing="8" cellpadding="14">
 <tr>
 <td width="50%" valign="top">
 
 ### 🦤 Ostrich OS
-**Systems • Linux • Security**
+Systems · Linux · Security
 
-Operating-system learning and experimentation focused on systems, Linux internals and security concepts.
+Learning-focused operating-system experimentation with an emphasis on systems internals and security.
 
 ### 🌐 Ostrich Browser
-**Browser Engineering • Security**
+Browser Engineering · Security
 
-A browser project exploring browser architecture, security boundaries and attack surfaces.
+Exploring browser architecture, security boundaries and attack surfaces.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 AI Assistant
-**AI • Automation • Productivity**
+AI · Automation · Productivity
 
-A personal assistant project for learning, automation and productivity experiments.
+A personal assistant project for automation and practical experimentation.
 
 ### 🧪 Security Labs
-**Pentesting • Networking • Blue Team**
+Pentesting · Networking · Blue Team
 
-Hands-on practice across reconnaissance, web security, Linux, networking, SIEM and defensive security.
+Hands-on labs covering reconnaissance, web security, Linux, SIEM and defensive security.
 
 </td>
 </tr>
 </table>
 
-<br>
+## 📊 GitHub Activity
 
-## 🧰 Security Toolkit
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,git,github,ubuntu&perline=8" alt="Core technologies">
-</p>
+<img src="./stats.svg?v=20" width="49%" alt="GitHub profile statistics">
+<img src="./langs.svg?v=20" width="49%" alt="Top languages">
 
-<p align="center">
-<img src="https://img.shields.io/badge/Kali%20Linux-05070d?style=for-the-badge&logo=kalilinux&logoColor=557CFF" alt="Kali Linux">
-<img src="https://img.shields.io/badge/Nmap-05070d?style=for-the-badge&logo=gnu-bash&logoColor=00d9ff" alt="Nmap">
-<img src="https://img.shields.io/badge/Wireshark-05070d?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark">
-<img src="https://img.shields.io/badge/Burp%20Suite-05070d?style=for-the-badge&logo=portswigger&logoColor=ff6a00" alt="Burp Suite">
-<img src="https://img.shields.io/badge/Metasploit-05070d?style=for-the-badge&logo=kalilinux&logoColor=557CFF" alt="Metasploit">
-<img src="https://img.shields.io/badge/Elastic%20SIEM-05070d?style=for-the-badge&logo=elastic&logoColor=00bfb3" alt="Elastic SIEM">
-</p>
+<br><br>
 
-<br>
+<img src="https://streak-stats.demolab.com?user=Cyber-AnkurYadav&theme=dark&hide_border=true&background=05070d&ring=00d9ff&fire=ff3d81&currStreakLabel=00d9ff" width="96%" alt="GitHub streak">
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="./stats.svg?v=15" width="49%" alt="Profile stats">
-<img src="./langs.svg?v=15" width="49%" alt="Top languages">
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Cyber-AnkurYadav&theme=dark&hide_border=true&background=05070d&ring=00d9ff&fire=ff3d81&currStreakLabel=00d9ff" alt="GitHub streak">
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber-AnkurYadav&bg_color=05070d&color=00d9ff&line=7c3aed&point=ff3d81&area=true&area_color=172554&hide_border=true&custom_title=CYBER%20ACTIVITY%20GRAPH" width="96%" alt="Contribution activity graph">
-</p>
-
-<br>
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="./trophies.svg?v=15" width="96%" alt="GitHub achievements">
-</p>
-
-<br>
+</div>
 
 ## 🐍 Contribution Matrix
 
-<p align="center">
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg?v=15">
-  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg?v=15">
-  <img src="./output/github-contribution-grid-snake-dark.svg?v=15" alt="GitHub contribution snake">
+  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg?v=20">
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg?v=20">
+  <img src="./output/github-contribution-grid-snake-dark.svg?v=20" width="96%" alt="GitHub contribution snake">
 </picture>
-</p>
+</div>
 
-<br>
+## 🤝 Connect
 
-## 🤝 Connect With Me
+<div align="center">
 
-<p align="center">
-<a href="https://github.com/Cyber-AnkurYadav"><img src="https://img.shields.io/badge/GitHub-Cyber--AnkurYadav-05070d?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/cyber-ankuryadav/"><img src="https://img.shields.io/badge/LinkedIn-Ankur%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"></a>
-<a href="mailto:ankuryadav9317@gmail.com"><img src="https://img.shields.io/badge/Email-00d9ff?style=for-the-badge&logo=gmail&logoColor=05070d" alt="Email"></a>
-</p>
+<a href="https://github.com/Cyber-AnkurYadav"><img src="https://img.shields.io/badge/GitHub-Cyber--AnkurYadav-05070d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/cyber-ankuryadav/"><img src="https://img.shields.io/badge/LinkedIn-Ankur%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:ankuryadav9317@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00d9ff?style=for-the-badge&logo=gmail&logoColor=05070d" alt="Email"></a>
 
-<p align="center">
-<b>KEEP LEARNING • KEEP HACKING • KEEP GROWING • KEEP SECURING</b>
-<br>
-<sub>Building practical cybersecurity skills, one lab at a time. 🔐</sub>
-</p>
+<br><br>
+
+<b>KEEP LEARNING • KEEP HACKING • KEEP GROWING • KEEP SECURING 🔐</b>
 
 </div>
