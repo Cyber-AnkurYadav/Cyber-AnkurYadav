@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./banner.svg?v=14" width="100%" alt="Ankur Yadav — Cybersecurity Engineer">
+<img src="./banner.svg?v=15" width="100%" alt="Ankur Yadav — Cybersecurity Engineer">
 
 <br><br>
 
 <table align="center" width="96%" cellspacing="0" cellpadding="12">
 <tr>
 <td width="40%" align="center" valign="middle">
-<img src="./assets/ankur-anime.jpg?v=14" width="100%" alt="Ankur Yadav cybersecurity character">
+<img src="./assets/ankur-anime.jpg?v=15" width="100%" alt="Ankur Yadav cybersecurity character">
 </td>
 <td width="60%" valign="top">
 
@@ -92,8 +92,8 @@ Hands-on practice across reconnaissance, web security, Linux, networking, SIEM a
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="./stats.svg?v=14" width="49%" alt="Profile stats">
-<img src="./langs.svg?v=14" width="49%" alt="Top languages">
+<img src="./stats.svg?v=15" width="49%" alt="Profile stats">
+<img src="./langs.svg?v=15" width="49%" alt="Top languages">
 </p>
 
 <p align="center">
@@ -109,7 +109,7 @@ Hands-on practice across reconnaissance, web security, Linux, networking, SIEM a
 ## 🏆 Achievements
 
 <p align="center">
-<img src="./trophies.svg?v=14" width="96%" alt="GitHub achievements">
+<img src="./trophies.svg?v=15" width="96%" alt="GitHub achievements">
 </p>
 
 <br>
@@ -118,9 +118,9 @@ Hands-on practice across reconnaissance, web security, Linux, networking, SIEM a
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg?v=14">
-  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg?v=14">
-  <img src="./output/github-contribution-grid-snake-dark.svg?v=14" alt="GitHub contribution snake">
+  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg?v=15">
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg?v=15">
+  <img src="./output/github-contribution-grid-snake-dark.svg?v=15" alt="GitHub contribution snake">
 </picture>
 </p>
 
