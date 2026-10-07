@@ -1,0 +1,37 @@
+{
+  "username": "Cyber-AnkurYadav",
+  "name": "ANKUR YADAV",
+  "role": "Cybersecurity Engineer",
+  "tagline": "I learn by building, breaking, analyzing and securing systems.",
+  "mission": "Learn → Lab → Analyze → Defend → Secure",
+  "building": "Ostrich OS · Ostrich Browser · AI Assistant · Security Labs",
+  "roles": ["Cybersecurity Engineer", "Red Team · Offensive Security", "Blue Team · SOC & Threat Hunting", "DFIR · OSINT · Network Security"],
+  "chips": [["RED TEAM", "#ff4d8d"], ["BLUE TEAM", "#60a5fa"], ["DFIR", "#a78bfa"], ["OSINT", "#22d3ee"]],
+  "theme": {"bg": "#06070d", "s1": "#0b0e1a", "s2": "#10142a", "line": "#222a48", "text": "#eef1ff", "muted": "#8b93b5", "c1": "#22d3ee", "c2": "#8b5cf6", "c3": "#ff4d8d", "gold": "#fbbf24",
+            "heat": ["#151a2f", "#3b2f8f", "#6d4be0", "#a855f7", "#ff4d8d"]},
+  "progress": {"label": "90-DAY CYBER SPRINT", "start": "2026-10-01", "days": 90, "style": "gradient", "colors": ["#22d3ee", "#8b5cf6", "#ff4d8d"]},
+  "mascot_messages": ["Scanning ports...", "nmap -sV target", "Flag captured!", "Learn > Lab > Defend"],
+  "arsenal_chips": ["Nmap", "Wireshark", "Burp Suite", "Metasploit", "Hashcat", "SQLMap", "Nikto", "Autopsy", "Maltego", "ELK", "Sysmon", "Kali Linux"],
+  "arsenal": [
+    {"title": "NETWORK", "color": "#22d3ee", "items": ["TCP/IP", "Nmap", "Wireshark", "arp-scan"]},
+    {"title": "WEB", "color": "#a78bfa", "items": ["Burp Suite", "OWASP", "SQLMap", "Nikto"]},
+    {"title": "OFFENSIVE", "color": "#ff4d8d", "items": ["Kali Linux", "Metasploit", "Hashcat", "Pentesting"]},
+    {"title": "DEFENSIVE", "color": "#60a5fa", "items": ["ELK / SIEM", "Sysmon", "SOC", "Threat Hunting"]}
+  ],
+  "projects": [
+    {"code": "OS", "title": "Ostrich OS", "tags": "Systems · Linux · Security", "text": "Learning-focused operating-system experimentation with an emphasis on systems internals and security.", "color": "#22d3ee"},
+    {"code": "WB", "title": "Ostrich Browser", "tags": "Browser Engineering · Security", "text": "Exploring browser architecture, security boundaries and attack surfaces.", "color": "#a78bfa"},
+    {"code": "AI", "title": "AI Assistant", "tags": "AI · Automation · Productivity", "text": "A personal assistant project for automation and practical experimentation.", "color": "#ff4d8d"},
+    {"code": "LAB", "title": "Security Labs", "tags": "Pentesting · Networking · Blue Team", "text": "Hands-on labs covering reconnaissance, web security, Linux, SIEM and defensive security.", "color": "#60a5fa"}
+  ],
+  "achievements": [
+    {"title": "Google Arcade Legend", "sub": "Certification", "icon": "star", "state": "unlocked"},
+    {"title": "NPTEL Data Mining", "sub": "NPTEL Certification", "icon": "book", "state": "unlocked"},
+    {"title": "NPTEL Software Engineering", "sub": "NPTEL Certification", "icon": "book", "state": "unlocked"},
+    {"title": "Google Student Ambassador", "sub": "University chapter", "icon": "medal", "state": "unlocked"},
+    {"title": "Cyber Security Internship", "sub": "APCSIP2026", "icon": "shield", "state": "unlocked"},
+    {"title": "AWS Cloud Practitioner", "sub": "In preparation", "icon": "cloud", "state": "progress"},
+    {"title": "7-Day Streak", "sub": "GitHub streak", "icon": "flame", "rule": "streak7"},
+    {"title": "30-Day Streak", "sub": "GitHub streak", "icon": "flame", "rule": "streak30"}
+  ]
+}
